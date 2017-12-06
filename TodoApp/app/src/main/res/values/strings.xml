@@ -21,6 +21,20 @@
     <string name="botton_yaTengoCuenta">Ya tengo una cuenta</string>
     <string name="botton_iniciar">Iniciar</string>
     <string name="botton_No_tengoCuenta">No tengo una cuenta</string>
+    <string name="recoveryPass">Recuperar contraseña</string>
+    <string name="msj_recuperar">Recuperar</string>
+    <string name="mis_tareas">Mis tareas</string>
+    <string name="agrega_una_foto">Agrega una foto</string>
+    <string name="nueva_tarea">Nueva tarea</string>
+    <string name="is_required">Es requerido</string>
+
+    <string name="already_have_account">Ya tengo una cuenta</string>
+    <string name="signup">Registrarme</string>
+    <string name="full_name">Nombre completo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recuperar">Recuperar</string>
 
 
 </resources>
